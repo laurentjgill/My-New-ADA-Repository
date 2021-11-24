@@ -1,0 +1,15 @@
+---
+title: "My R markdown"
+author: "Lauren Gill"
+date: "23/11/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### My new repository
+***
+
+This repository is an example repository that I made for the ADA take home challenge
